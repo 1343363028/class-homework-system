@@ -1,0 +1,3 @@
+cd D:\1037_Code\homework-system\frontend
+npm install
+npm run dev
